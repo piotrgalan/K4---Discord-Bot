@@ -9,17 +9,17 @@ K4 is a discord bot created in Python and uses the following modules:
 - PyMongo
 
 Commands:
-/unit           - Connects to the unit database using pymongo and displays information about a specific unit.
-/operator       - Connects to the operator database using pymongo and displays information about a specific operator.
-/ship           - Connects to the ship database using and displays information about a ship unit.
+- /unit           - Connects to the unit database using pymongo and displays information about a specific unit.
+- /operator       - Connects to the operator database using pymongo and displays information about a specific operator.
+- /ship           - Connects to the ship database using and displays information about a ship unit.
 
 #In development
-/userinfo       - Displays information about specific user.
-/timer          - Creates a countdown when the Guild Buff is active. 
-/weeklyban      - Connects to the ban list database using pymongo and displays information about the currently banned units, operators and ship in PVP mode.
-/announcement   - Creates a general announcement. This includes Title, Message, Image, URL link and Role ping.
-/patchnotes     - Creates a patch notes announcement. This include Title and patch notes in a list.
-/code           - Creates an annoucnement for in-game codes which can be redeemed.
+- /userinfo       - Displays information about specific user.
+- /timer          - Creates a countdown when the Guild Buff is active. 
+- /weeklyban      - Connects to the ban list database using pymongo and displays information about the currently banned units, operators and ship in PVP mode.
+- /announcement   - Creates a general announcement. This includes Title, Message, Image, URL link and Role ping.
+- /patchnotes     - Creates a patch notes announcement. This include Title and patch notes in a list.
+- /code           - Creates an annoucnement for in-game codes which can be redeemed.
 
 Note: All the messages are displayed using embeds. 
 
