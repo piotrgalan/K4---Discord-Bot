@@ -1,4 +1,4 @@
-# K4 - Discord Bot created for the game Counterside.
+# K4 - Discord Bot
 
 K4 is a discord bot created in Python and uses the following modules:
 - Hikari
